@@ -1,0 +1,31 @@
+BODY{
+    
+    background-size:cover;
+    background-repeat: no-repeat;
+    font-size: 30PX;
+}
+.RAJ A:LINK{ COLOR:BLUE}
+. pin a:hover{
+    box-shadow:lightblue ;
+}
+footer {
+    padding-top: 30px;
+  }
+  .footer {
+    background-color: #2f5167;
+    color: #fff;
+    height: 120px;
+    padding: 40px;
+  }
+  .footer-logo {
+    float: left;
+    font-size: 32px;
+    font-family: 'Roboto Slab', serif;
+  }
+  .footer-list {
+    float: right;
+  }
+  .footer-list li {
+    font-family: 'Roboto Mono', monospace;
+    list-style-type: square;
+  }
